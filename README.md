@@ -1,4 +1,4 @@
 # Hi there, I'm Mike 👋
 
 ## GitLab  
-You can find some of my projects on [my GitLab](https://gitlab.com).
+My preferred Git hosting site is GitLab, you can find most of my projects [there](https://gitlab.com/MikeTTh).
